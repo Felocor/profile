@@ -1,0 +1,35 @@
+/* Here goes your CSS */
+body {
+  background-color: #ECECEB;
+  font-family: 'Coiny', cursive;
+  font-size: 15px;
+  color: #2A363B;
+}
+
+h1 {
+  color :gray;
+  font-family: 'Trirong', serif;
+  line-height: 90%
+}
+
+a:hover {
+  color: green;
+  text-decoration: overline;
+}
+
+a {
+  color: blue;
+  text-decoration: line-overline;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  border: 1px solid black;
+  margin: 10px
+}
